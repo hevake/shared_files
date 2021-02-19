@@ -1,4 +1,4 @@
-" vimrc by Chunjun Li
+" vimrc by Hevake Lee
 " Last Update: 2020-01-17
 
 "------------------------------------------------------
